@@ -1,2 +1,2 @@
 # HiTIPS
-High Throughput Image Processing Software
+High-Throughput Image Processing software that can be used for large number of the tasks related to analysis of the high-throughput imaging dataset. HiTIPS is a novel software tool for analyzing FISH data that integrates several advanced image processing and machine learning algorithms. Our software enables automated segmentation of cells and nuclei, identification of FISH signals, and quantification of signal intensity and distribution. HiTIPS is built on a flexible user interface that allows incorporation of new algorithms for currently provisioned analysis routines as well as completely new analysis routines by adding separate plugins. 
